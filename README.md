@@ -6,4 +6,5 @@
 - Some Jumper Cables
 > - If CPU TEMP STILL 0, RUM PROGRAM AS ADMİNİSTORS...
 
-![alt text](https://github.com/KaanAlper/Arduino-PC-Status/blob/main/ArduinoPcMonitor/Arduino%20Connections.png)
+"Arduino Connections"
+![Connections](https://github.com/KaanAlper/Arduino-PC-Status/blob/main/ArduinoPcMonitor/Arduino%20Connections.png)
