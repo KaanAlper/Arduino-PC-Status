@@ -7,7 +7,7 @@
 > - If CPU TEMP STILL 0, RUM PROGRAM AS ADMİNİSTORS...
 
 *Arduino Connections*
-(https://github.com/KaanAlper/Arduino-PC-Status/blob/main/Arduino%20Code/Arduino%20Connections.png)
+![](https://github.com/KaanAlper/Arduino-PC-Status/blob/main/Arduino%20Code/Arduino%20Connections.png)
 
 ## Using The Program
 Dont worry its very simple
@@ -20,4 +20,4 @@ Dont worry its very simple
 
 **4)** Lastly click to the green tick icon...
 
-![Program](https://github.com/KaanAlper/Arduino-PC-Status/blob/main/Program%20Code/resim_2022-10-13_201135864.png)
+![](https://github.com/KaanAlper/Arduino-PC-Status/blob/main/Program%20Code/resim_2022-10-13_201135864.png)
