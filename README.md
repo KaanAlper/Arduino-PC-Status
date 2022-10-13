@@ -11,10 +11,12 @@
 ![](https://github.com/KaanAlper/Arduino-PC-Status/blob/main/Arduino%20Code/Arduino%20Connections.png)
 
 ## Using The Program
+
 Dont worry its very simple
 **1)**Firstly you need to run program as administor
 **2)**Select port of the your Arduino Uno
 **3)**Select the Framerate of the Value Changes at milisecond
+
 > 1000 is 1 Second.
 > 
 > 500 is 0.5 Second (Optionally My Favorite)
