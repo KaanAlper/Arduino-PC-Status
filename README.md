@@ -7,6 +7,7 @@
 > - If CPU TEMP STILL 0, RUM PROGRAM AS ADMİNİSTORS...
 
 *Arduino Connections*
+
 ![](https://github.com/KaanAlper/Arduino-PC-Status/blob/main/Arduino%20Code/Arduino%20Connections.png)
 
 ## Using The Program
