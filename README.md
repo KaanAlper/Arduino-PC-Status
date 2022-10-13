@@ -1,6 +1,6 @@
 ### Arduino PC Monitor
 
-- Requires
+- Requires\n
  -Arduino UNO
  -I2C 2X16 Led
  -Some Jumper Cables
