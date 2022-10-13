@@ -13,9 +13,9 @@
 ## Using The Program
 
 Dont worry its very simple
-**1)**Firstly you need to run program as administor
-**2)**Select port of the your Arduino Uno
-**3)**Select the Framerate of the Value Changes at milisecond
+**1)** Firstly you need to run program as administor
+**2)** Select port of the your Arduino Uno
+**3)** Select the Framerate of the Value Changes at milisecond
 
 > 1000 is 1 Second.
 > 
